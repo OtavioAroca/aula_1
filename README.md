@@ -1,2 +1,3 @@
-# aula_1
-Aula_1 curso
+# Primeiro Commit -> DEV
+
+Aqui devem ser feitas as alterações.
